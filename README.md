@@ -49,7 +49,7 @@ This project demonstrates end-to-end data analysis skills:
 
 ## 📬 Contact
 
-Feel free to fork this project or reach out on [LinkedIn](https://linkedin.com/in/YOURNAME) if you'd like to collaborate or learn more.
+Feel free to fork this project or reach out on [LinkedIn](https://linkedin.com/in/karolina-malec) if you'd like to collaborate or learn more.
 
 ## 📌 Data Source
 
