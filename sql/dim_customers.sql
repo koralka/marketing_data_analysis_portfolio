@@ -11,9 +11,6 @@ SELECT
 FROM 
     dbo.customers as c 
 LEFT JOIN
--- RIGHT JOIN
--- INNER JOIN
--- FULL OUTER JOIN
     dbo.geography g  
 ON 
     c.GeographyID = g.GeographyID;  
